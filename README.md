@@ -25,7 +25,7 @@ pessoas = [
     {"id": 5, "valor": 58},
     # ... até o número total de pessoas definido no código
 ]
-
+```
 ---
 
 ##  Funcionalidades
